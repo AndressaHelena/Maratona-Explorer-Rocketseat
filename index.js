@@ -44,7 +44,7 @@ function fazerPergunta() {
     response.style.opacity = 1;
    
     inputPergunta.value = " ";
-    inputPergunta.focus();
+    
 
 
     setTimeout(function(){
